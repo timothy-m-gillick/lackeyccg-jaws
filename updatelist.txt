@@ -1,0 +1,5 @@
+Jaws	08-03-22
+plugins/Jaws/plugininfo.txt	https://github.com/timothy-m-gillick/lackeyccg-jaws/raw/main/plugininfo.txt	181418
+plugins/Jaws/sets/setimages/general/cardback.jpg	https://github.com/timothy-m-gillick/lackeyccg-jaws/raw/main/cardback.jpg	250883
+CardGeneralURLs:		
+https://drive.google.com/drive/folders/1fVZaszwfT990rK6jh8o3r5ZVC1GrmZkW?usp=sharing
